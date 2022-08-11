@@ -29,7 +29,5 @@ I'm a Data Analyst...
 
 ![image](https://user-images.githubusercontent.com/87432844/184070539-1ff9654e-f5bd-4ddf-9f9f-a8773b3fd478.png)
 
-
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/anand-sumit/)](https://www.linkedin.com/)
-[![Email](anandsumit625@gmail.com)](https://mail.google.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/anand-sumit/))
